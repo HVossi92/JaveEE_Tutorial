@@ -1,1 +1,3 @@
-com/backend/LoginServlet.class
+com\backend\LoginServlet.class
+com\backend\LandingPageServlet.class
+com\backend\UserValidationService.class
